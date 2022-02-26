@@ -1,5 +1,5 @@
 # Deploy Ec2 Quick Experiments
 
-ex: used for THM/HTB/CTFs, quick dev etc 
+Used to deploy EC2 with VPN config. Used for HTB/CTFs/TryHackMe
 
 
